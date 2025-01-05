@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ... anything
 - 📫 How to reach me ... email
 - 😄 Pronouns: ... he/him
-- ⚡ Fun fact: ... I am not fun.
+- ⚡ Fun fact: ... I am fluent in Mandarin Chinese after living as an expat in Taiwan for five years
 
 <!---
 ItsJustJon/ItsJustJon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
